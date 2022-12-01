@@ -2,12 +2,12 @@
 
 Don't be flexible.
 
-## Usage
-
-### Installation
+## Installation
 
 ```bash
 npm install @unflexible/ui-next-page
 ```
 
-### Optional settings
+## Usage
+
+## Optional settings
