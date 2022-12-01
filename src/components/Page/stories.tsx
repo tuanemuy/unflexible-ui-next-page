@@ -1,5 +1,5 @@
 import { Story, Meta } from "@storybook/react";
-import Page, { Props } from "./index";
+import { Page, Props } from "./index";
 import { UnflexibleProvider } from "@unflexible/ui-core";
 
 export default {
