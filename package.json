@@ -1,6 +1,5 @@
 {
   "name": "@unflexible/ui-next-page",
-  "private": true,
   "version": "0.2.1",
   "description": "Page component of Next.js for Unflexible UI.",
   "main": "./dist/unflexible-ui-next-page.umd.js",
