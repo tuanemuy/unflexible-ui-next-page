@@ -15,7 +15,7 @@ export interface Props {
   children?: React.ReactNode;
 }
 
-const Page = ({
+export const Page = ({
   title,
   description,
   path,
@@ -102,5 +102,3 @@ const FooterArea = styled.div`
   z-index: 1;
   width: 100%;
 `;
-
-export default Page;
