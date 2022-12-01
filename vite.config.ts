@@ -41,6 +41,7 @@ export default defineConfig({
         globals: {
           react: "React",
           "react-dom": "ReactDOM",
+          "next/head": "Head",
         },
       },
     },
