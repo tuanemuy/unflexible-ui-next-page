@@ -1,6 +1,6 @@
 {
   "name": "@unflexible/ui-next-page",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Page component of Next.js for Unflexible UI.",
   "main": "./dist/unflexible-ui-next-page.umd.js",
   "module": "./dist/unflexible-ui-next-page.es.js",
@@ -10,7 +10,7 @@
       "import": "./dist/unflexible-ui-next-page.es.js",
       "require": "./dist/unflexible-ui-next-page.umd.js"
     },
-    "./css": "./dist/index.css"
+    "./css": "./dist/style.css"
   },
   "sideEffects": [
     "*.css"
