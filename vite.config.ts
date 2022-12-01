@@ -36,7 +36,7 @@ export default defineConfig({
       fileName: (format) => `unflexible-ui-next-page.${format}.js`,
     },
     rollupOptions: {
-      external: ["react", "react-dom"],
+      external: ["react", "react-dom", "next"],
       output: {
         globals: {
           react: "React",
